@@ -1,0 +1,8 @@
+datasets
+pillow
+cairosvg
+svgpathtools
+lpips
+torch
+torchvision
+transformers
